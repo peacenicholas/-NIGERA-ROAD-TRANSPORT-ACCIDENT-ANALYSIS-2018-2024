@@ -15,11 +15,9 @@
 ### Project Objective
 The objective of this project is to analyze road transport accident data in Nigeria from 2018 to 2024 in order to uncover patterns, trends, and risk factors influencing accident occurrence and severity. The dashboard aims to evaluate accident distribution across different times of day, road types, weather conditions, and states while assessing the overall impact in terms of total cases, injuries, fatalities, and crashes. Ultimately, the goal is to generate data-driven insights that can support road safety planning, infrastructure improvement, and policy formulation to reduce accident rates and improve public safety nationwide.
 
-<img width="808" height="500" alt="BILLIONAIRE STATISTICS ANALYSIS (Power BI)" src="https://github.com/peacenicholas/BILLIONAIRE-STATISTIC-ANALYSIS/blob/7c8e8f1861c121ceb4037b9da7801630066f57f6/BILLIONAIRE%20DASHBOARD%201.PNG" />
+<img width="808" height="500" alt="BILLIONAIRE STATISTICS ANALYSIS (Power BI)" src="https://github.com/peacenicholas/-NIGERA-ROAD-TRANSPORT-ACCIDENT-ANALYSIS-2018-2024/blob/ac0524ebf1347cc7c840ee0c94530a1b6c97a1e0/NIGERIA%20ROAD%20Capture.PNG" />
 
-<img width="808" height="500" alt="BILLIONAIRE STATISTICS ANALYSIS (Power BI)" src="https://github.com/peacenicholas/BILLIONAIRE-STATISTIC-ANALYSIS/blob/d81a774c48f5ae94dba6638338f527b80c3ac2ad/BILLIONAIRE%20DASHBOARD%202.PNG" />
-
- 
+---
 ### Data Source
  NIGERIA ROAD TRANSPORT ACCIDENT ANALYSIS: The primary data set used for this analysis is the "Nigeria-road-Transport-Dataset.Excel", which contains detailed informations for the analysis.
 
