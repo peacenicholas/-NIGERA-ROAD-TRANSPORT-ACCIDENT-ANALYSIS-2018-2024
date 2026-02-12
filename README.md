@@ -74,3 +74,11 @@ New Measures function and power query was used to analyze the data to answer que
 5. Enhance emergency medical response systems to reduce injury and fatality rates.
 6. Implement state-specific road safety strategies based on hotspot analysis.
 7. Enforce stricter penalties for traffic violations and conduct regular vehicle safety inspections.
+
+   
+---
+
+### Conclusion
+The analysis of Nigeria’s road transport accidents from 2018 to 2024 reveals a significant public safety concern, with 697,000 total cases resulting in 421,000 injuries and 72K,000 fatalities. The findings highlight that accidents are not isolated incidents but a widespread national issue affecting multiple states across the country. Evening periods record the highest accident occurrence, while rural roads account for the largest share of cases, suggesting infrastructure and enforcement gaps in those areas. Additionally, a substantial proportion of accidents occur under a single dominant condition category, indicating that road crashes are not limited to adverse weather situations but are strongly influenced by human and systemic factors.
+
+Overall, the dashboard demonstrates the urgent need for targeted, data-driven interventions focused on high-risk time periods, vulnerable road types, and geographic hotspots. Strategic improvements in infrastructure, enforcement, public awareness, and emergency response systems are essential to reducing accident rates and improving road safety outcomes in Nigeria.
